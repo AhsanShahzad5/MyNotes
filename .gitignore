@@ -1,0 +1,13 @@
+# Dependency directories
+/Backend/node_modules
+/FrontEnd/node_modules
+
+# # Environment variables
+# .env
+
+# # Build files
+# /backend/build
+# /front-end/build
+
+# # Logs and debug files
+# /backend/logs
